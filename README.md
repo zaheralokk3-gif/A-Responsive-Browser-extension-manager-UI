@@ -31,14 +31,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./preview.jpg)
+(./preview.jpg)
 
-*(Make sure to replace ./screenshot.jpg with the actual path to your project screenshot)*
+![](./preview.jpg)
 
 ### Links
 
-- Solution URL: [GitHub Repository]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/zaheralokk3-gif/A-Responsive-Browser-extension-manager-UI/tree/main))
-- Live Site URL: [GitHub Pages Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY)
+- Solution URL: [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/zaheralokk3-gif/A-Responsive-Browser-extension-manager-UI/tree/main)
+- Live Site URL: [GitHub Pages Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY](https://zaheralokk3-gif.github.io/A-Responsive-Browser-extension-manager-UI/)
 
 ---
 
